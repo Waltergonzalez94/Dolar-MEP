@@ -1,0 +1,28 @@
+Pautas:
+
+Objetivo: demostrar que el MEP es el mejor instrumento para "contener" el dolar oficial
+
+1) relaciones:
+* El oficial, sigue al blue (libman)
+* Pero además sigue al mep y ccl. A cual sigue en última instancia?
+* Granger
+
+* validaciones parciales 
+** Oficial ~ BLUE y MEP
+** BLUE ~ MEP
+
+* validaciones generales (Pineda)
+** Oficial ~ f(variables)
+
+grangertest(Turista ~ MEP, order = 1, data = data)
+grangertest(MEP ~ Turista, order = 1, data = data) #MEP anticipa turista
+1) Modelar relación 
+	oficial/Blue
+	oficial/mep
+	oficial/cll
+
+
+
+2) causalidad mep -> blue y ccl -> blue
+	granger
+	modelo
