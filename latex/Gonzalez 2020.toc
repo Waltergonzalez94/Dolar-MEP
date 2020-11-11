@@ -1,0 +1,11 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{3}
+\contentsline {section}{\numberline {2}Tipo de cambio en Argentina}{3}
+\contentsline {subsection}{\numberline {2.1}Controles cambiarios y tipos de cambios m\IeC {\'u}ltiples}{3}
+\contentsline {subsection}{\numberline {2.2}Revisi\IeC {\'o}n bibliogr\IeC {\'a}fica}{4}
+\contentsline {subsection}{\numberline {2.3}Contextualizaci\IeC {\'o}n del per\IeC {\'\i }odo}{5}
+\contentsline {section}{\numberline {3}El modelo}{9}
+\contentsline {section}{\numberline {4}Estimaci\IeC {\'o}n y resultados}{10}
+\contentsline {section}{\numberline {5}Conclusiones}{14}
+\contentsline {section}{\numberline {6}Anexo}{15}
+\contentsline {section}{\numberline {7}Bibliograf\IeC {\'\i }a}{16}
